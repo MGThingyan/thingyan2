@@ -2,16 +2,21 @@
    "files": [    
    
 {
-         "name": "TH-True-vip.01",
-         "url": "https://raw.githubusercontent.com/MGThingyan/thingyan2/main/th-true-dtac01.ovpn"
+         "name": "TH-Dtac-True.Vip.01",
+         "url": "https://raw.githubusercontent.com/MGThingyan/thingyan2/main/TH-Dtac-True.Vip.02.ovpn"
       }
 ,
 
 {
-         "name": "TH-Dtac-vip.01",
+         "name": "TH-Dtac-True-Vip.02",
          "url": "https://raw.githubusercontent.com/MGThingyan/thingyan2/main/th-true-dtac01.ovpn"
       }
+,
+{ 
+         "name": "SG-Dtac-True.vip.03",
+         "url": "https://raw.githubusercontent.com/MGThingyan/thingyan2/main/SG.Dtac-True.Vip.01.ovpn"
 
+      }
         
    ],
 "message":"
@@ -25,5 +30,5 @@ TH SEVERE VIP VPS
 SG SEVERE VIP VPS
 \n\nFb: THINGYAN",
 "title":"ဖိုင်အပ်ဒိတ်လိုပါသလား? " ,
-   "version":1
+   "version":2
 }
