@@ -12,13 +12,12 @@
          "url": "https://raw.githubusercontent.com/MGThingyan/thingyan2/main/th-true-dtac01.ovpn"
       }
 ,
-{ 
-         "name": "SG-Dtac-True.vip.03",
-         "url": "https://raw.githubusercontent.com/MGThingyan/thingyan2/main/SG.Dtac-True.Vip.01.ovpn"
 
-      }
-        
-   ],
+{       "uname": "SG-Dtac-True-Vip.03",
+         "url": "https://raw.githubusercontent.com/MGThingyan/thingyan2/main/SG.Dtac-True.Vip.01.ovpn"
+       }
+  
+     ],
 "message":"
 🔵DTAC NOPRO
 🔴TRUE NOPRO
@@ -30,5 +29,5 @@ TH SEVERE VIP VPS
 SG SEVERE VIP VPS
 \n\nFb: THINGYAN",
 "title":"ဖိုင်အပ်ဒိတ်လိုပါသလား? " ,
-   "version":2
+   "version":3
 }
